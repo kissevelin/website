@@ -1,0 +1,26 @@
+body {
+    background-image: url("hatterkep.jpg");
+    font-variant: small-caps;
+    font-family: Candara;
+    color: white;
+}
+.cim
+{
+    width: 25%;
+    
+}
+.elhelyezes {
+    float: left;
+    width: 25%;
+    text-align: center;
+    
+  }
+.szerzoijog{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(71, 70, 70);
+   color: white;
+   text-align: center;
+}

@@ -1,0 +1,41 @@
+body {
+    background-image: url("hatterkep3.jpg");
+    font-family: Candara;
+    color: rgb(255, 255, 255);
+}
+.fooldal {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+.elhelyezes {
+    width: 25%;
+    text-align: center;
+    float: left;
+    border: 3px solid rgb(255, 255, 255); 
+  }
+
+.cim{
+    font-variant: small-caps;
+    width: 25%;
+}
+img {
+    border: 5px solid rgb(0, 0, 0); 
+}
+.bemutatkozas{
+    font-variant: small-caps;
+}
+.munka {
+   text-decoration: underline; 
+}
+iframe{
+    border: 5px solid rgb(255, 255, 255); 
+}
+.szerzoijog{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(71, 70, 70);
+    text-align: center;
+    font-variant: small-caps;
+ }

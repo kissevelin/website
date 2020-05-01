@@ -1,0 +1,20 @@
+body {
+    background-image: url("hatterkep3.jpg");
+    font-family: Candara;
+    color: rgb(255, 255, 255);
+}
+.szovegformazas {
+    font-size: x-large;
+    border: 3px solid rgb(255, 255, 255); 
+}
+
+
+.szerzoijog{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(71, 70, 70);
+    color: white;
+    text-align: center;
+ }

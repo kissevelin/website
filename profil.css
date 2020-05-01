@@ -1,0 +1,35 @@
+body {
+    background-image: url("hatterkep3.jpg");
+    font-family: Candara;
+    color: rgb(255, 255, 255);
+}
+.cim{
+    font-variant: small-caps;
+    width: 25%;
+}
+.fooldal {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+.bemutatkozas{
+    font-variant: small-caps;
+}
+
+img{
+    float: left;
+    border: 5px solid rgb(255, 255, 255); 
+}
+.szovegformazas {
+    
+    border: 5px solid rgb(255, 255, 255); 
+    font-size: xx-large;
+}
+.szerzoijog{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(71, 70, 70);
+    text-align: center;
+    font-variant: small-caps;
+ }
